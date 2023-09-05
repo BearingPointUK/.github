@@ -1,7 +1,7 @@
 ---
 name: Security Issue template
 about: All security related changes must use this issue type.
-title: Security: [Describe what needs to change]
+title: Describe what the security problem is
 labels: security
 assignees: ''
 
